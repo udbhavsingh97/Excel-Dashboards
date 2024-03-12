@@ -1,0 +1,11 @@
+Insights:
+
+1. Highest sales occurrance for 2022 was in the month of March.
+2. Women are more likely to buy products in comparison to men (~69%)
+3. Adult age group (30-49 yrs)) is maximum contributing on the sales part(~50%)
+4. Maharashtra, Karnataka and Uttar Pradesh are the top 3 states.
+5. Amazon, Flipkart and Myntra are the top 3 channels which are maximum contributing.
+
+Conclusion:
+
+We can target women in Adult age group(30-49 yrs) from Maharashtra, Karnataka, Uttar Pradesh states by showing them ads/offers/coupons on top selling channels such as Amazon, Flipkart, Myntra.
